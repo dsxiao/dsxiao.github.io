@@ -6,7 +6,7 @@ const skills = [
   { name: "Data visualization", text: "I turned economic modelling outputs into interactive visual dashboards for Canada's official GHG emissions website." },
   { name: "Research and writing", text: "I wrote my senior honours essay on Ontario's Bill 187 and conducted research on the global plastic waste trade." },
   { name: "Communication and presentation",    text: "I successfully presented findings on new AI tools to a network of 50+ members at Health Canada." },
-  { name: "Leadership and collaboration",         text: "As Policy Director, I leaded my university club's first ever policy summit featuring Members of Parliament" },
+  { name: "Leadership and collaboration",         text: "As Policy Director, I led my university club's first ever policy summit featuring Members of Parliament" },
   { name: "Quantitative reasoning",   text: "My background in mathematics has honed my ability to think critically and solve complex problems." }
 ];
 
